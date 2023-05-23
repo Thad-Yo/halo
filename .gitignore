@@ -5,7 +5,7 @@ logs/
 
 ### Gradle
 .gradle
-build/
+!build/libs/
 out/
 !gradle/wrapper/gradle-wrapper.jar
 bin/
@@ -28,7 +28,7 @@ log/
 
 ### NetBeans ###
 nbproject/private/
-build/
+!build/libs/
 nbbuild/
 dist/
 nbdist/
